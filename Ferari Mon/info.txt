@@ -1,0 +1,29 @@
+Album Name: Ferari Mon
+Album Type: Band
+Release Year: 1996
+Genre: Films/Games;Film Scores
+Total Songs: 10
+Track List:
+01. Bangladesh
+02. Cholo Bodle Jay
+03. Ekhon Anek Raat
+04. Ferari Mon
+05. Gotokal Raate
+06. Madhobi
+07. Pension
+08. Rupali Guitar
+09. Sesh Chithi
+10. Shriti Niye
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 979 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.3.0 (2013-05-26)
