@@ -69,7 +69,7 @@ Released on July 13, 1995, *Ghumanta Sahare* ("In the Sleeping City") is an unas
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Swapno/Album%20Cover/Swapno%20%5BLyrics%5D.jpg" width="300" alt="Swapno (স্বপ্ন) (1996) Album Cover" />
+  <img src="Swapno/Album%20Cover/Swapno%20%5BFront%5D.jpg" width="300" alt="Swapno (স্বপ্ন) (1996) Album Cover" />
 </p>
 
 ### 📖 About the Album
@@ -94,7 +94,8 @@ Released in 1996, *Swapno* ("Dream") represents LRB at the height of their hard-
 
 | | |
 | :---: | :---: |
-| <img src="Swapno/Album%20Cover/Swapno%20%5BLyrics%5D.jpg" width="300" alt="1. Booklet & Lyrics" /><br><sub><b>1. Booklet & Lyrics</b></sub> | <img src="Swapno/Album%20Cover/Swapno.jpg" width="300" alt="2. Swapno" /><br><sub><b>2. Swapno</b></sub> |
+| <img src="Swapno/Album%20Cover/Swapno%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Swapno/Album%20Cover/Swapno%20%5BLyrics%5D.jpg" width="300" alt="2. Booklet & Lyrics" /><br><sub><b>2. Booklet & Lyrics</b></sub> |
+| <img src="Swapno/Album%20Cover/Swapno.jpg" width="300" alt="3. Swapno" /><br><sub><b>3. Swapno</b></sub> |  |
 
 ### 💿 CD Ripper & Preservation Credit
 - **Preserved & Ripped by:** Bangla Flac Preservation Community / Exact Audio Copy (EAC Secure Rig)
