@@ -10,6 +10,8 @@
 
 > "Founded in 1991 in Chattogram by guitar legend Ayub Bachchu, **LRB** (Love Runs Blind) is one of the foundational cornerstones of Bangladeshi rock. With explosive dual-guitar harmonies, hard rock grooves, and unforgettable lyrical anthems, LRB pioneered the band movement in Bangladesh and performed before millions worldwide."
 
+🎵 **Stream Lossless Audio Online:** [BD Band Music Player](https://bd-band-music.pages.dev/) &bull; [Mirror](https://bd-band-music.netlify.app/)
+
 ---
 
 ## 📑 Discography Index
